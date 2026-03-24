@@ -1,6 +1,8 @@
 👋 Hi, I’m @MariosTsatsos 
 
-👀 I’m interested in AI safety, LLM evaluation, and behaviour of optimisation systems
+👀 I’m interested in AI safety, LLM evaluation, and failure modes in optimisation systems
+Line 1␠␠
+
 
 🌱 I’m currently building LLM systems (RAG, evals, small benchmarks)
 
