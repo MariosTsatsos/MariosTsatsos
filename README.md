@@ -13,7 +13,11 @@
 ⚙️ built and deployed ML systems (AWS, data pipelines, NLP)
 
 🧪 experience with large-scale simulations and non-linear systems
+
 🚀 3x founder / CTO — took startup to ~£0.5M revenue
+
+
+
 
 
 📫 Reach me at mariostsatsos@gmail.com
